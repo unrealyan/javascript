@@ -1,0 +1,98 @@
+/**
+ * Created by unrealyan on 16/6/5.
+ */
+import React from 'react';
+const NewRegistration =React.createClass({
+    render:function () {
+        return(
+            <div>
+                <table className="table table-striped table-hover">
+                    <thead>
+                        <tr><th>ID</th><th>姓名</th><th>身份证号码</th><th>联系电话</th><th>报名时间</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>001</td>
+                            <td>张三</td>
+                            <td>33072119863908</td>
+                            <td>13148484787</td>
+                            <td>2016-01-03</td>
+                        </tr>
+                        <tr>
+                            <td>001</td>
+                            <td>张三</td>
+                            <td>33072119863908</td>
+                            <td>13148484787</td>
+                            <td>2016-01-03</td>
+                        </tr>
+                        <tr>
+                            <td>001</td>
+                            <td>张三</td>
+                            <td>33072119863908</td>
+                            <td>13148484787</td>
+                            <td>2016-01-03</td>
+                        </tr><tr>
+                            <td>001</td>
+                            <td>张三</td>
+                            <td>33072119863908</td>
+                            <td>13148484787</td>
+                            <td>2016-01-03</td>
+                        </tr>
+                        <tr>
+                            <td>001</td>
+                            <td>张三</td>
+                            <td>33072119863908</td>
+                            <td>13148484787</td>
+                            <td>2016-01-03</td>
+                        </tr>
+                        <tr>
+                            <td>001</td>
+                            <td>张三</td>
+                            <td>33072119863908</td>
+                            <td>13148484787</td>
+                            <td>2016-01-03</td>
+                        </tr>
+                        <tr>
+                            <td>001</td>
+                            <td>张三</td>
+                            <td>33072119863908</td>
+                            <td>13148484787</td>
+                            <td>2016-01-03</td>
+                        </tr>
+                        <tr>
+                            <td>001</td>
+                            <td>张三</td>
+                            <td>33072119863908</td>
+                            <td>13148484787</td>
+                            <td>2016-01-03</td>
+                        </tr>
+                        <tr>
+                            <td>001</td>
+                            <td>张三</td>
+                            <td>33072119863908</td>
+                            <td>13148484787</td>
+                            <td>2016-01-03</td>
+                        </tr>
+                        <tr>
+                            <td>001</td>
+                            <td>张三</td>
+                            <td>33072119863908</td>
+                            <td>13148484787</td>
+                            <td>2016-01-03</td>
+                        </tr>
+                        <tr>
+                            <td>001</td>
+                            <td>张三</td>
+                            <td>33072119863908</td>
+                            <td>13148484787</td>
+                            <td>2016-01-03</td>
+                        </tr>
+
+                    </tbody>
+                </table>
+                <hr/>
+            </div>
+        )
+    }
+});
+export default NewRegistration;

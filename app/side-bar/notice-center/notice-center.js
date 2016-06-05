@@ -6,7 +6,9 @@ const NoticeCenter =React.createClass({
     render:function () {
         return(
             <div>
-                通知中心
+                <span>每日通知</span>
+                <p>今日暂无通知</p>
+                <hr/>
             </div>
         )
     }
